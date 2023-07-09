@@ -1,10 +1,3 @@
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
-*/
-
 function Heap()
 {
     //Setting Time complexities
